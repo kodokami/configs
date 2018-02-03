@@ -1,5 +1,7 @@
 ## Nano syntax highlighting for Puppet.
 ##
+## Taken from @scopatz repository <https://github.com/scopatz/nanorc>
+##
 syntax "Puppet" "\.pp$"
 
 #This goes first, so the normal builtins will override in some classes
