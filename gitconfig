@@ -1,0 +1,21 @@
+[core]
+  editor = nano
+[user]
+  name = _kodokami
+  email = kodokami@protonmail.com
+[color]
+  ui = auto
+[push]
+  default = current
+[pager]
+  branch =
+  config =
+  show =
+  stash =
+  diff-stats =
+  tag =
+[alias]
+  graph = log --graph --decorate --oneline
+  ss = show --format=raw -s
+  st = status -s
+  diff-stats = diff --stat
