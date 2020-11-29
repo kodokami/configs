@@ -41,4 +41,4 @@ fi
 unset color_prompt force_color_prompt
 
 # uncomment below to enable git autocompletion
-source ~/.git-completion.bash
+# source ~/.git-completion.bash

@@ -1,7 +1,7 @@
 [core]
   editor = nano
 [user]
-  name = _kodokami
+  name = kodokami
   email = kodokami@protonmail.com
 [color]
   ui = auto
