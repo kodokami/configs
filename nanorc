@@ -1,5 +1,5 @@
 set tabsize 4
 set tabstospaces
-set smooth
+#set smooth
 set nonewlines
 set nowrap
